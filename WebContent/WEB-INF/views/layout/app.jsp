@@ -14,7 +14,7 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by reika.
+                by kazu.
             </div>
         </div>
     </body>
